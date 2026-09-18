@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Blender autosave / backup
+*.blend1
+*.blend2
+*.blend@
+*.blend~
+
+# Temporary files
+*.tmp
+*.log
+
+# Render temporário
+renders/tmp/
+
+# Exportações temporárias
+output/tmp/
+
+# Referências privadas / originais
+references/person/*
+references/kichute/raw/*
+references/private/*
+
+# Manter arquivos de orientação das pastas
+!references/person/.gitkeep
+!references/kichute/raw/.gitkeep
+!references/private/.gitkeep
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
