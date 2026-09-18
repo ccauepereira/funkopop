@@ -1,10 +1,10 @@
 # Runner Collectible 3D — Tasks V1
 
-**Estado atual:** documentação e Concept Art V1 consolidados. T-010 a T-014 concluídas; T-015 pronta para iniciar.
+**Estado atual:** documentação e Concept Art V1 consolidados. T-010 a T-015 concluídas; T-016 pronta para iniciar.
 
 ## Gate de entrada
 
-O estado atual foi registrado em `PROJECT_SPEC.md`, `VISUAL_SPEC.md`, `DECISIONS.md`, `ENGINEERING_NOTES.md` e `docs/research/README.md`. T-014 foi aprovada como contrato conceitual de módulos, não como JSON físico de fabricação. T-015 está liberada para blockout em unidades relativas.
+O estado atual foi registrado em `PROJECT_SPEC.md`, `VISUAL_SPEC.md`, `DECISIONS.md`, `ENGINEERING_NOTES.md` e `docs/research/README.md`. T-015 foi aprovada como Blockout V001 (base técnica de automação, módulos, proporção inicial e pose; não como aparência final). T-016 está liberada para Visual QA V001.
 
 | ID | Tarefa | Estado | Dependência | Critério de aceite |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ O estado atual foi registrado em `PROJECT_SPEC.md`, `VISUAL_SPEC.md`, `DECISIONS
 | T-012 | Turnaround V1 | CONCLUÍDA | T-010, T-011 e Concept Art V1 | Frontal, perfis e costas consistentes, sem dimensões inventadas. |
 | T-013 | Geometric Spec V1 | CONCLUÍDA | T-012 | Razões e decisões geométricas aprovadas; escala ainda baseada em evidência. |
 | T-014 | Character JSON V1 | CONCLUÍDA | T-013 | Contrato conceitual de módulos aprovado em revisão humana; sem JSON físico de fabricação ou tolerâncias inventadas. |
-| T-015 | Blockout V001 | PRONTA PARA INICIAR | T-014 | Módulos com nomes estáveis, sem detalhes frágeis ou conectores finais. |
-| T-016 | Visual QA V001 | BLOQUEADA | T-015 | Comparação documentada com Concept/Turnaround e lista de correções. |
+| T-015 | Blockout V001 | CONCLUÍDA | T-014 | Módulos com nomes estáveis, sem detalhes frágeis ou conectores finais. |
+| T-016 | Visual QA V001 | PRONTA PARA INICIAR | T-015 | Comparação documentada com Concept/Turnaround e lista de correções. |
 
 ## Trabalho técnico paralelo, não bloqueante
 
