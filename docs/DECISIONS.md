@@ -18,6 +18,7 @@
 | D-012 | Concept Art V1 é a referência visual inicial aprovada, não uma especificação geométrica. | APROVADO | Turnaround e QA, sem autorizar medidas. |
 | D-013 | Regata e short escuros do Concept V1 são provisórios. | EM TESTE | Turnaround e aparência final. |
 | D-014 | Não usar IA externa especializada em geração automática de meshes. | CONGELADO | Ferramentas e rastreabilidade. |
+| D-015 | O tênis preto inspirado no Kichute é detalhe visual prioritário e não pode ser tratado como genérico; deve permanecer original, sem reproduzir marca, logotipo ou desenho proprietário. | APROVADA | `KICHUTE_L/R`, Turnaround, QA visual e futuras revisões de geometria. |
 
 ## Decisões bloqueadas
 

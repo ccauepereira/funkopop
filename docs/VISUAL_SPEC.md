@@ -14,7 +14,7 @@
 | Óculos | Escuros, grandes e de armação grossa; elemento central da identidade. |
 | Pose | Corrida simples: tronco levemente à frente, braço anterior dobrado, braço posterior para trás, uma perna à frente e outra atrás. |
 | Roupa provisória | Regata escura e short escuro, lisos, sem marcas, números ou texto. |
-| Calçado | Preto, perfil baixo, biqueira arredondada, sola robusta e cadarços simplificados; inspirado no Kichute sem marca ou logotipo. |
+| Calçado | Elemento de assinatura visual prioritário: tênis preto inspirado no Kichute, com perfil baixo, biqueira arredondada, sola grossa e segmentada, cabedal de painéis simples e legíveis e cadarços grossos/simplificados; sem marca ou logotipo. |
 | Base | Apoio estrutural discreto integrado à leitura de corrida. |
 
 ## Requisitos visuais para futura impressão
@@ -22,7 +22,11 @@
 - Óculos devem ter armação grossa e leitura forte; não usar hastes finas como arame.
 - Cabelo deve ser composto por massas grandes conectadas; não usar fios ou textura microscópica.
 - Mãos devem permanecer simplificadas; não exigir dedos individuais frágeis.
-- Cadarços e sola devem ser relevo largo/simplificado; não reproduzir microdetalhes.
+- O calçado é uma assinatura visual prioritária, não um tênis genérico: manter o
+  perfil baixo, a biqueira arredondada, a sola grossa e segmentada e painéis de
+  cabedal simples e legíveis.
+- Cadarços devem ser grossos e simplificados; cadarços finos, microdetalhes e
+  microtextura não são permitidos. A sola deve usar relevo largo/simplificado.
 - As divisões futuras de cabelo, cabeça, óculos, corpo, membros, tênis e base devem ser visualmente naturais, sem conectores aparentes.
 
 ## Em teste / ainda aberto
@@ -38,4 +42,6 @@
 
 ## Proibições visuais
 
-Não adicionar logotipos, textos, marcas, fios de cabelo, rugas minúsculas, acessórios não aprovados, dedos individuais finos ou partes flutuantes.
+Não adicionar logotipos, textos, marcas, cópia exata de marca, fios de cabelo,
+rugas minúsculas, acessórios não aprovados, dedos individuais finos, cadarços
+finos, microdetalhes ou partes flutuantes.
