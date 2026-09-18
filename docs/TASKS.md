@@ -1,15 +1,15 @@
 # Runner Collectible 3D — Tasks V1
 
-**Estado atual:** documentação e Concept Art V1 consolidados. A implementação ainda não começou.
+**Estado atual:** documentação e Concept Art V1 consolidados. T-010 concluída; T-011 pronta para início.
 
 ## Gate de entrada
 
-O estado atual foi registrado em `PROJECT_SPEC.md`, `VISUAL_SPEC.md`, `DECISIONS.md`, `ENGINEERING_NOTES.md` e `docs/research/README.md`. Portanto, T-010 pode começar. T-012 permanece bloqueada até a conclusão de T-010 e T-011.
+O estado atual foi registrado em `PROJECT_SPEC.md`, `VISUAL_SPEC.md`, `DECISIONS.md`, `ENGINEERING_NOTES.md` e `docs/research/README.md`. Portanto, T-010 está concluída e T-011 pode começar. T-012 permanece bloqueada até a conclusão de T-011.
 
 | ID | Tarefa | Estado | Dependência | Critério de aceite |
 |---|---|---|---|---|
-| T-010 | Bootstrap Blender | PRONTA PARA INICIAR | Documentação consolidada | Estrutura mínima, execução reprodutível e sem geometria do personagem. |
-| T-011 | Blender Smoke Test | BLOQUEADA | T-010 | Abrir/executar o ambiente e registrar resultado sem modelar o personagem. |
+| T-010 | Bootstrap Blender | CONCLUÍDA | Documentação consolidada | Estrutura mínima, execução reprodutível e sem geometria do personagem. |
+| T-011 | Blender Smoke Test | PRONTA PARA INICIAR | T-010 | Abrir/executar o ambiente e registrar resultado sem modelar o personagem. |
 | T-012 | Turnaround V1 | BLOQUEADA | T-010, T-011 e Concept Art V1 | Frontal, perfis e costas consistentes, sem dimensões inventadas. |
 | T-013 | Geometric Spec V1 | BLOQUEADA | T-012 | Razões e decisões geométricas aprovadas; escala ainda baseada em evidência. |
 | T-014 | Character JSON V1 | BLOQUEADA | T-013 | Apenas parâmetros respaldados pela Geometric Spec; sem tolerâncias inventadas. |
