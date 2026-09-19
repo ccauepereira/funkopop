@@ -164,6 +164,41 @@ for final project objects.
 
 ---
 
+## Python environments
+
+This project has two distinct Python environments.
+
+### Project environment
+
+Use `.venv` for:
+- tests;
+- data processing;
+- OpenCV;
+- NumPy;
+- utility scripts.
+
+Create with:
+
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements-dev.txt
+
+### Blender environment
+
+Scripts importing `bpy` must be executed using Blender's Python:
+
+blender --background --python <script>
+
+Do not assume packages installed in `.venv`
+are available inside Blender.
+
+Do not install or upgrade packages globally without explicit approval.
+
+Do not add `bpy` to requirements.txt unless the project explicitly
+decides to support standalone bpy execution.
+
+---
+
 ## Units
 
 Blender project units must represent millimeters consistently.
