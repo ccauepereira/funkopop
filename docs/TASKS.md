@@ -1,10 +1,10 @@
 # Runner Collectible 3D — Tasks V1
 
-**Estado atual:** documentação e Concept Art V1 consolidados. T-010 a T-015 concluídas; T-016 pronta para iniciar.
+**Estado atual:** documentação e Concept Art V1 consolidados. T-010 a T-016 concluídas; T-017 pronta para iniciar.
 
 ## Gate de entrada
 
-O estado atual foi registrado em `PROJECT_SPEC.md`, `VISUAL_SPEC.md`, `DECISIONS.md`, `ENGINEERING_NOTES.md` e `docs/research/README.md`. T-015 foi aprovada como Blockout V001 (base técnica de automação, módulos, proporção inicial e pose; não como aparência final). T-016 está liberada para Visual QA V001.
+O estado atual foi registrado em `PROJECT_SPEC.md`, `VISUAL_SPEC.md`, `DECISIONS.md`, `ENGINEERING_NOTES.md` e `docs/research/README.md`. T-016 foi concluída com aprovação humana da análise visual do Blockout V001. T-017 está liberada para o Refinamento V002, visando aproximar o modelo do Turnaround V1 aprovado, sem aprovação de fabricação.
 
 | ID | Tarefa | Estado | Dependência | Critério de aceite |
 |---|---|---|---|---|
@@ -14,7 +14,8 @@ O estado atual foi registrado em `PROJECT_SPEC.md`, `VISUAL_SPEC.md`, `DECISIONS
 | T-013 | Geometric Spec V1 | CONCLUÍDA | T-012 | Razões e decisões geométricas aprovadas; escala ainda baseada em evidência. |
 | T-014 | Character JSON V1 | CONCLUÍDA | T-013 | Contrato conceitual de módulos aprovado em revisão humana; sem JSON físico de fabricação ou tolerâncias inventadas. |
 | T-015 | Blockout V001 | CONCLUÍDA | T-014 | Módulos com nomes estáveis, sem detalhes frágeis ou conectores finais. |
-| T-016 | Visual QA V001 | PRONTA PARA INICIAR | T-015 | Comparação documentada com Concept/Turnaround e lista de correções. |
+| T-016 | Visual QA V001 | CONCLUÍDA | T-015 | Comparação documentada com Concept/Turnaround e lista de correções. |
+| T-017 | Refinamento V002 | PRONTA PARA INICIAR | T-016 | Aproximação visual do Turnaround V1 (mechas, rosto, membros, calçado); sem aprovação de fabricação. |
 
 ## Trabalho técnico paralelo, não bloqueante
 
